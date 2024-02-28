@@ -9,3 +9,9 @@ public class chardemo
         System.out.println(ch1+" "+ch2);
     }
 }
+
+
+
+
+
+
